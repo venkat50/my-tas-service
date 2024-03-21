@@ -1,2 +1,3 @@
 INSTANCE_COUNT: 2
 USER: <+project.name>
+ROUTE: <+project.name>.apps.tas-qa-setup.com
