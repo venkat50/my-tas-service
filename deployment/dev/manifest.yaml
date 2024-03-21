@@ -6,3 +6,5 @@ applications:
   disk_quota: 256M
   buildpacks:
   - binary_buildpack
+  routes:
+  - route: ((ROUTE))
